@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1489447256 source:c:\users\danie\documents\escom\proyecto\estructura de datos\listasdoblementeenlazadas\borrar.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489444052 c:\users\danie\documents\escom\proyecto\estructura de datos\listasdoblementeenlazadas\listasdoblementeenlazadas.h
+
+1489446994 source:c:\users\danie\documents\escom\proyecto\estructura de datos\listasdoblementeenlazadas\buscar.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489445724 source:c:\users\danie\documents\escom\proyecto\estructura de datos\listasdoblementeenlazadas\imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489446741 source:c:\users\danie\documents\escom\proyecto\estructura de datos\listasdoblementeenlazadas\insertar.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489447231 source:c:\users\danie\documents\escom\proyecto\estructura de datos\listasdoblementeenlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489447210 source:c:\users\danie\documents\escom\proyecto\estructura de datos\listasdoblementeenlazadas\nueva.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+

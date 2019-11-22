@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1488481529 source:c:\users\danie\documents\escom\proyecto\estructura de datos\evaluate\action.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1488481298 c:\users\danie\documents\escom\proyecto\estructura de datos\evaluate\pilae.h
+
+1488481638 source:c:\users\danie\documents\escom\proyecto\estructura de datos\evaluate\create.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1488481529 source:c:\users\danie\documents\escom\proyecto\estructura de datos\evaluate\question.c
+	"pilae.h"
+	<stdio.h>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1497294959 source:c:\users\danie\documents\escom\proyecto\estructura de datos\huffman\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1496720786 source:c:\users\danie\documents\escom\proyecto\estructura de datos\huffman\funciones_cola.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1497294564 c:\users\danie\documents\escom\proyecto\estructura de datos\huffman\colas.h
+
+1497072493 source:c:\users\danie\documents\escom\proyecto\estructura de datos\huffman\heapify.c
+	<stdio.h>
+	"colas.h"
+
+1497070590 source:c:\users\danie\documents\escom\proyecto\estructura de datos\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1497294423 source:c:\users\danie\documents\escom\proyecto\estructura de datos\huffman\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1497294640 source:c:\users\danie\documents\escom\proyecto\estructura de datos\huffman\arbolhuff.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+

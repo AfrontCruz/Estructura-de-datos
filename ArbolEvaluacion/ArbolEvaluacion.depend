@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1493146465 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbolevaluacion\borrar.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1495558464 c:\users\danie\documents\escom\proyecto\estructura de datos\arbolevaluacion\arbol.h
+
+1495558327 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbolevaluacion\crear.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1495558191 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbolevaluacion\imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1495557802 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbolevaluacion\insertar.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1495558298 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbolevaluacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+

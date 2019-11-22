@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1486529001 source:c:\users\danie\documents\escom\proyecto\complejos\complejo.c
+	<stdio.h>
+	<stdlib.h>
+	"complejo.h"
+	<math.h>
+
+1486526174 c:\users\danie\documents\escom\proyecto\complejos\complejo.h
+	<stdio.h>
+
+1486526994 source:c:\users\danie\documents\escom\proyecto\complejos\principal.c
+	<stdio.h>
+	"complejo.h"
+
+1486529001 source:c:\users\danie\documents\escom\proyecto\estructura de datos\complejos\complejo.c
+	<stdio.h>
+	<stdlib.h>
+	"complejo.h"
+	<math.h>
+
+1486526174 c:\users\danie\documents\escom\proyecto\estructura de datos\complejos\complejo.h
+	<stdio.h>
+
+1488745163 source:c:\users\danie\documents\escom\proyecto\estructura de datos\complejos\principal.c
+	<stdio.h>
+	"complejo.h"
+

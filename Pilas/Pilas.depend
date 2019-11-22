@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1486766234 source:c:\users\danie\documents\escom\proyecto\pilas\pilae.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1486768711 c:\users\danie\documents\escom\proyecto\pilas\pilae.h
+
+1486769033 source:c:\users\danie\documents\escom\proyecto\pilas\main.c
+	<stdio.h>
+	"pilae.h"
+
+1486767754 source:c:\users\danie\documents\escom\proyecto\pilas\create.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1486768711 source:c:\users\danie\documents\escom\proyecto\pilas\action.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1486767756 source:c:\users\danie\documents\escom\proyecto\pilas\question.c
+	"pilae.h"
+	<stdio.h>
+
+1487018956 source:c:\users\danie\documents\escom\proyecto\estructura de datos\pilas\create.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1487018956 c:\users\danie\documents\escom\proyecto\estructura de datos\pilas\pilae.h
+
+1486767756 source:c:\users\danie\documents\escom\proyecto\estructura de datos\pilas\question.c
+	"pilae.h"
+	<stdio.h>
+
+1486960748 source:c:\users\danie\documents\escom\proyecto\estructura de datos\pilas\main.c
+	<stdio.h>
+	"pilae.h"
+	<stdlib.h>
+
+1487018501 source:c:\users\danie\documents\escom\proyecto\estructura de datos\pilas\action.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+

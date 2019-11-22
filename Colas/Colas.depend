@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1488465429 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colas\crearcola.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488465766 c:\users\danie\documents\escom\proyecto\estructura de datos\colas\colas.h
+
+1488465549 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488465429 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colas\borrarcola.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488465766 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colas\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488465429 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colas\vacia.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488465766 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colas\llena.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488465766 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colas\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+

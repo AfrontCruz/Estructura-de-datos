@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1487120434 source:c:\users\danie\documents\escom\proyecto\estructura de datos\equal\action.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1488478148 c:\users\danie\documents\escom\proyecto\estructura de datos\equal\pilae.h
+
+1487110471 source:c:\users\danie\documents\escom\proyecto\estructura de datos\equal\archivos.c
+	<stdlib.h>
+	<stdio.h>
+	"pilae.h"
+
+1487120451 source:c:\users\danie\documents\escom\proyecto\estructura de datos\equal\create.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1487109150 source:c:\users\danie\documents\escom\proyecto\estructura de datos\equal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilae.h"
+
+1487098433 source:c:\users\danie\documents\escom\proyecto\estructura de datos\equal\operations.c
+
+1487108483 source:c:\users\danie\documents\escom\proyecto\estructura de datos\equal\question.c
+	"pilae.h"
+	<stdio.h>
+

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1488918294 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\archivos.c
+	<stdlib.h>
+	<stdio.h>
+	"colas.h"
+
+1488949392 c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\colas.h
+
+1488951957 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\borrarcola.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488951724 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\crearcola.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488953699 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488951271 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\heapify.c
+	<stdio.h>
+	"colas.h"
+
+1488465768 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\llena.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488918276 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488465430 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\vacia.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488951892 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1488951892 source:c:\users\danie\documents\escom\proyecto\estructura de datos\colasprioridad\imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+

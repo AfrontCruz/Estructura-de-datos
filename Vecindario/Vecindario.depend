@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1489450856 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\borrar.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489527992 c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\listasdoblementeenlazadas.h
+
+1489528012 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\buscar.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489449324 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489450341 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\insertar.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489450810 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\nueva.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489521809 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\vecindario.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489941426 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+
+1489528464 source:c:\users\danie\documents\escom\proyecto\estructura de datos\vecindario\der.c
+	<stdio.h>
+	<stdlib.h>
+	"ListasDoblementeEnlazadas.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1487739735 source:c:\users\danie\documents\escom\proyecto\estructura de datos\operations\action.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1487725603 c:\users\danie\documents\escom\proyecto\estructura de datos\operations\pilae.h
+
+1487739735 source:c:\users\danie\documents\escom\proyecto\estructura de datos\operations\archivos.c
+	<stdlib.h>
+	<stdio.h>
+	"pilae.h"
+
+1487724668 source:c:\users\danie\documents\escom\proyecto\estructura de datos\operations\create.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1487725338 source:c:\users\danie\documents\escom\proyecto\estructura de datos\operations\main.c
+	<stdio.h>
+	"pilae.h"
+	<stdlib.h>
+
+1487725376 source:c:\users\danie\documents\escom\proyecto\estructura de datos\operations\operations.c
+	"pilae.h"
+	<stdlib.h>
+	<stdio.h>
+
+1487725603 source:c:\users\danie\documents\escom\proyecto\estructura de datos\operations\question.c
+	"pilae.h"
+	<stdio.h>
+

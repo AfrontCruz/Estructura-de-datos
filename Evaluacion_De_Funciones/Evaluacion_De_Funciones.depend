@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1490731220 source:c:\users\danie\documents\escom\proyecto\estructura de datos\evaluacion_de_funciones\insertar.c
+	<stdio.h>
+	<stdlib.h>
+	"evaluacion.h"
+
+1490732982 c:\users\danie\documents\escom\proyecto\estructura de datos\evaluacion_de_funciones\evaluacion.h
+
+1490732607 source:c:\users\danie\documents\escom\proyecto\estructura de datos\evaluacion_de_funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"evaluacion.h"
+
+1490731852 source:c:\users\danie\documents\escom\proyecto\estructura de datos\evaluacion_de_funciones\evaluar.c
+	<stdio.h>
+	<stdlib.h>
+	"evaluacion.h"
+

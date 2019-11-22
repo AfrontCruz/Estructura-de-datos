@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1493580797 source:c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\crearpunto.c
+	<stdio.h>
+	<stdlib.h>
+	"GeoAnalitica.h"
+
+1493580427 c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\geoanalitica.h
+
+1493580124 source:c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GeoAnalitica.h"
+
+1493580857 source:c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\pendiente.c
+	<stdio.h>
+	<stdlib.h>
+	"GeoAnalitica.h"
+
+1493580857 source:c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\distance.c
+	<stdio.h>
+	<stdlib.h>
+	"GeoAnalitica.h"
+	<math.h>
+
+1493580857 source:c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\puntomedio.c
+	<stdio.h>
+	<stdlib.h>
+	"GeoAnalitica.h"
+	<math.h>
+
+1488667634 source:c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\borrarpoints.c
+	<stdio.h>
+	<stdlib.h>
+	"GeoAnalitica.h"
+
+1493743496 source:c:\users\danie\documents\escom\proyecto\estructura de datos\geoanalitica\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"GeoAnalitica.h"
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1493133038 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\crear.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1494362511 c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\arbol.h
+
+1494362996 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\insertar.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1494362539 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1493754266 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1493146465 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\borrar.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1494363077 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\hojas.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	<math.h>
+
+1494362378 source:c:\users\danie\documents\escom\proyecto\estructura de datos\arbol\multiplos.c
+

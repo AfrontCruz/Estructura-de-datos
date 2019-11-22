@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1489013529 source:c:\users\danie\documents\escom\proyecto\estructura de datos\coladinamica\borrarcola.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaDinamica.h"
+
+1489018226 c:\users\danie\documents\escom\proyecto\estructura de datos\coladinamica\coladinamica.h
+
+1489014006 source:c:\users\danie\documents\escom\proyecto\estructura de datos\coladinamica\crearcola.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaDinamica.h"
+
+1489023919 source:c:\users\danie\documents\escom\proyecto\estructura de datos\coladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaDinamica.h"
+
+1489023730 source:c:\users\danie\documents\escom\proyecto\estructura de datos\coladinamica\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaDinamica.h"
+
+1489024284 source:c:\users\danie\documents\escom\proyecto\estructura de datos\coladinamica\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaDinamica.h"
+
